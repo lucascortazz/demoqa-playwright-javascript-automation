@@ -1,0 +1,30 @@
+# JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.eslintcache
+coverage/
+dist/
+build/
+
+# Playwright
+playwright-report/
+test-results/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Optional
+.env
